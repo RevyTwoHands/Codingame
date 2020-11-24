@@ -1,1 +1,3 @@
 # Codingame
+
+Resolved Condingame puzzles
