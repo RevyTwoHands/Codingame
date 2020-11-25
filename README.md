@@ -1,12 +1,15 @@
 # Codingame
 
+ Kudos to : Coni63 for his beautiful table 
+
+
 | title                                   | level    | Done               | url                                                                                          |
 |:----------------------------------------|:---------|:-------------------|:---------------------------------------------------------------------------------------------|
 | Onboarding                              | tutorial | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/onboarding)                                   |
 | Power of Thor - Episode 1               | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/power-of-thor-episode-1)                      |
 | Températures                            | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/temperatures)                                 |
-| ASCII Art                               | easy     |                    | [Link](https://www.codingame.com/training/easy/ascii-art)                                    |
-| Chuck Norris                            | easy     |                    | [Link](https://www.codingame.com/training/easy/chuck-norris)                                 |
+| ASCII Art                               | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/ascii-art)                                    |
+| Chuck Norris                            | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/chuck-norris)                                 |
 | MIME Type                               | easy     |                    | [Link](https://www.codingame.com/training/easy/mime-type)                                    |
 | Défibrillateurs                         | easy     |                    | [Link](https://www.codingame.com/training/easy/defibrillators)                               |
 | Chevaux de course                       | easy     |                    | [Link](https://www.codingame.com/training/easy/horse-racing-duals)                           |

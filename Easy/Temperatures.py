@@ -1,4 +1,3 @@
-import sys
 import math
 
 tmp_neg = -math.inf
