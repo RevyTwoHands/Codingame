@@ -10,9 +10,9 @@
 | Températures                            | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/temperatures)                                 |
 | ASCII Art                               | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/ascii-art)                                    |
 | Chuck Norris                            | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/chuck-norris)                                 |
-| MIME Type                               | easy     |                    | [Link](https://www.codingame.com/training/easy/mime-type)                                    |
-| Défibrillateurs                         | easy     |                    | [Link](https://www.codingame.com/training/easy/defibrillators)                               |
-| Chevaux de course                       | easy     |                    | [Link](https://www.codingame.com/training/easy/horse-racing-duals)                           |
+| MIME Type                               | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/mime-type)                                    |
+| Défibrillateurs                         | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/defibrillators)                               |
+| Chevaux de course                       | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/horse-racing-duals)                           |
 | Mars Lander - Episode 1                 | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/mars-lander-episode-1)                        |
 | Expressions parenthésées                | easy     |                    | [Link](https://www.codingame.com/training/easy/brackets-extreme-edition)                     |
 | La descente                             | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/the-descent)                                  |
