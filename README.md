@@ -17,8 +17,8 @@
 | Expressions parenthésées                | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/brackets-extreme-edition)                     |
 | La descente                             | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/the-descent)                                  |
 | May the Triforce be with you!           | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/may-the-triforce-be-with-you)                 |
-| XML MDF-2016                            | easy     |                    | [Link](https://www.codingame.com/training/easy/xml-mdf-2016)                                 |
-| Jack Silver: The Casino                 | easy     |                    | [Link](https://www.codingame.com/training/easy/jack-silver-the-casino)                       |
+| XML MDF-2016                            | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/xml-mdf-2016)                                 |
+| Jack Silver: The Casino                 | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/jack-silver-the-casino)                       |
 | Rugby score                             | easy     |                    | [Link](https://www.codingame.com/training/easy/rugby-score)                                  |
 | How time flies                          | easy     |                    | [Link](https://www.codingame.com/training/easy/how-time-flies)                               |
 | Nature of quadrilaterals                | easy     |                    | [Link](https://www.codingame.com/training/easy/nature-of-quadrilaterals)                     |
