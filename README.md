@@ -14,9 +14,9 @@
 | Défibrillateurs                         | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/defibrillators)                               |
 | Chevaux de course                       | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/horse-racing-duals)                           |
 | Mars Lander - Episode 1                 | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/mars-lander-episode-1)                        |
-| Expressions parenthésées                | easy     |                    | [Link](https://www.codingame.com/training/easy/brackets-extreme-edition)                     |
+| Expressions parenthésées                | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/brackets-extreme-edition)                     |
 | La descente                             | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/the-descent)                                  |
-| May the Triforce be with you!           | easy     |                    | [Link](https://www.codingame.com/training/easy/may-the-triforce-be-with-you)                 |
+| May the Triforce be with you!           | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/may-the-triforce-be-with-you)                 |
 | XML MDF-2016                            | easy     |                    | [Link](https://www.codingame.com/training/easy/xml-mdf-2016)                                 |
 | Jack Silver: The Casino                 | easy     |                    | [Link](https://www.codingame.com/training/easy/jack-silver-the-casino)                       |
 | Rugby score                             | easy     |                    | [Link](https://www.codingame.com/training/easy/rugby-score)                                  |
@@ -81,7 +81,7 @@
 | Scrabble                                | medium   |                    | [Link](https://www.codingame.com/training/medium/scrabble)                                   |
 | Le cadeau                               | medium   |                    | [Link](https://www.codingame.com/training/medium/the-gift)                                   |
 | Calcul Maya                             | medium   |                    | [Link](https://www.codingame.com/training/medium/mayan-calculation)                          |
-| Shadows of the Knight - Episode 1       | medium   |                    | [Link](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)            |
+| Shadows of the Knight - Episode 1       | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)            |
 | Don't Panic - Episode 1                 | medium   |                    | [Link](https://www.codingame.com/training/medium/don't-panic-episode-1)                      |
 | La Bataille                             | medium   |                    | [Link](https://www.codingame.com/training/medium/winamax-battle)                             |
 | Teads Sponsored Challenge               | medium   |                    | [Link](https://www.codingame.com/training/medium/teads-sponsored-contest-hidden)             |
