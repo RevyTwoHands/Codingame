@@ -19,7 +19,7 @@
 | May the Triforce be with you!           | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/may-the-triforce-be-with-you)                 |
 | XML MDF-2016                            | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/xml-mdf-2016)                                 |
 | Jack Silver: The Casino                 | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/jack-silver-the-casino)                       |
-| Rugby score                             | easy     |                    | [Link](https://www.codingame.com/training/easy/rugby-score)                                  |
+| Rugby score                             | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/rugby-score)                                  |
 | How time flies                          | easy     |                    | [Link](https://www.codingame.com/training/easy/how-time-flies)                               |
 | Nature of quadrilaterals                | easy     |                    | [Link](https://www.codingame.com/training/easy/nature-of-quadrilaterals)                     |
 | Balanced ternary computer: encode       | easy     |                    | [Link](https://www.codingame.com/training/easy/balanced-ternary-computer-encode)             |
@@ -85,7 +85,7 @@
 | Don't Panic - Episode 1                 | medium   |                    | [Link](https://www.codingame.com/training/medium/don't-panic-episode-1)                      |
 | La Bataille                             | medium   |                    | [Link](https://www.codingame.com/training/medium/winamax-battle)                             |
 | Teads Sponsored Challenge               | medium   |                    | [Link](https://www.codingame.com/training/medium/teads-sponsored-contest-hidden)             |
-| There is no Spoon - Episode 1           | medium   |                    | [Link](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)                |
+| There is no Spoon - Episode 1           | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)                |
 | Le jeu de la vie                        | medium   |                    | [Link](https://www.codingame.com/training/medium/game-of-life)                               |
 | Comptage de votes                       | medium   |                    | [Link](https://www.codingame.com/training/medium/vote-counting)                              |
 | Gravité                                 | medium   |                    | [Link](https://www.codingame.com/training/medium/gravity)                                    |
