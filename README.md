@@ -20,7 +20,8 @@
 | XML MDF-2016                            | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/xml-mdf-2016)                                 |
 | Jack Silver: The Casino                 | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/jack-silver-the-casino)                       |
 | Rugby score                             | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/rugby-score)                                  |
-| How time flies                          | easy     |                    | [Link](https://www.codingame.com/training/easy/how-time-flies)                               |
+| How time flies                          | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/how-time-flies)                               |
+| Rock Paper Scissors Lizard Spock        | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock)                     |
 | Nature of quadrilaterals                | easy     |                    | [Link](https://www.codingame.com/training/easy/nature-of-quadrilaterals)                     |
 | Balanced ternary computer: encode       | easy     |                    | [Link](https://www.codingame.com/training/easy/balanced-ternary-computer-encode)             |
 | Bulk Email Generator                    | easy     |                    | [Link](https://www.codingame.com/training/easy/bulk-email-generator)                         |
