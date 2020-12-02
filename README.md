@@ -28,8 +28,8 @@
 | Horse-racing Hyperduals                 | easy     |                    | [Link](https://www.codingame.com/training/easy/horse-racing-hyperduals)                      |
 | Self-driving car testing                | easy     |                    | [Link](https://www.codingame.com/training/easy/self-driving-car-testing)                     |
 | What's so complex about Mandelbrot?     | easy     |                    | [Link](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot)            |
-| The River I.                            | easy     |                    | [Link](https://www.codingame.com/training/easy/the-river-i-)                                 |
-| The River II.                           | easy     |                    | [Link](https://www.codingame.com/training/easy/the-river-ii-)                                |
+| The River I.                            | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/the-river-i-)                                 |
+| The River II.                           | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/the-river-ii-)                                |
 | Text formatting                         | easy     |                    | [Link](https://www.codingame.com/training/easy/text-formatting)                              |
 | The Travelling Salesman Problem         | easy     |                    | [Link](https://www.codingame.com/training/easy/the-travelling-salesman-problem)              |
 | Organic Compounds ?                     | easy     |                    | [Link](https://www.codingame.com/training/easy/organic-compounds)                            |
@@ -53,7 +53,7 @@
 | The Dart 101                            | easy     |                    | [Link](https://www.codingame.com/training/easy/the-dart-101)                                 |
 | Brick in the Wall                       | easy     |                    | [Link](https://www.codingame.com/training/easy/brick-in-the-wall)                            |
 | Lumen                                   | easy     |                    | [Link](https://www.codingame.com/training/easy/lumen)                                        |
-| Blowing Fuse                            | easy     |                    | [Link](https://www.codingame.com/training/easy/blowing-fuse)                                 |
+| Blowing Fuse                            | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/blowing-fuse)                                 |
 | Stall tilt                              | easy     |                    | [Link](https://www.codingame.com/training/easy/stall-tilt)                                   |
 | 1D Spreadsheet                          | easy     |                    | [Link](https://www.codingame.com/training/easy/1d-spreadsheet)                               |
 | Hooch Clash                             | easy     |                    | [Link](https://www.codingame.com/training/easy/hooch-clash)                                  |
