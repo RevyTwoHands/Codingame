@@ -55,7 +55,7 @@
 | Lumen                                   | easy     |                    | [Link](https://www.codingame.com/training/easy/lumen)                                        |
 | Blowing Fuse                            | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/blowing-fuse)                                 |
 | Stall tilt                              | easy     |                    | [Link](https://www.codingame.com/training/easy/stall-tilt)                                   |
-| 1D Spreadsheet                          | easy     |                    | [Link](https://www.codingame.com/training/easy/1d-spreadsheet)                               |
+| 1D Spreadsheet                          | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/1d-spreadsheet)                               |
 | Hooch Clash                             | easy     |                    | [Link](https://www.codingame.com/training/easy/hooch-clash)                                  |
 | Plague, Jr                              | easy     |                    | [Link](https://www.codingame.com/training/easy/plague-jr)                                    |
 | Count as I count                        | easy     |                    | [Link](https://www.codingame.com/training/easy/count-as-i-count)                             |
