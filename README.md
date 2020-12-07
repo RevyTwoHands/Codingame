@@ -68,8 +68,10 @@
 | Dolbear's Law                           | easy     |                    | [Link](https://www.codingame.com/training/easy/dolbears-law)                                 |
 | A story to go in circles                | easy     |                    | [Link](https://www.codingame.com/training/easy/a-story-to-go-in-circles)                     |
 | Hello, World!                           | easy     |                    | [Link](https://www.codingame.com/training/easy/hello-world)                                  |
-| Rectangle Partition                     | easy     |                    | [Link](https://www.codingame.com/training/easy/rectangle-partition)                          |
+| Rectangle Partition                     | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/rectangle-partition)                          |
 | Unit Fractions                          | easy     |                    | [Link](https://www.codingame.com/training/easy/unit-fractions)                               |
+| Prefix code                             | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/prefix-code)                                  |
+| Ghost legs                              | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/ghost-legs)                                  |
 | Skynet Revolution - Episode 1           | medium   |                    | [Link](https://www.codingame.com/training/medium/skynet-revolution-episode-1)                |
 | The Last Crusade - Episode 1            | medium   |                    | [Link](https://www.codingame.com/training/medium/the-last-crusade-episode-1)                 |
 | Mars Lander - Episode 2                 | medium   |                    | [Link](https://www.codingame.com/training/medium/mars-lander-episode-2)                      |
