@@ -77,15 +77,15 @@
 | Mars Lander - Episode 2                 | medium   |                    | [Link](https://www.codingame.com/training/medium/mars-lander-episode-2)                      |
 | Pertes en bourse                        | medium   |                    | [Link](https://www.codingame.com/training/medium/stock-exchange-losses)                      |
 | Câblage réseau                          | medium   |                    | [Link](https://www.codingame.com/training/medium/network-cabling)                            |
-| Suite de Conway                         | medium   |                    | [Link](https://www.codingame.com/training/medium/conway-sequence)                            |
+| Suite de Conway                         | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/conway-sequence)                            |
 | Numéros de téléphone                    | medium   |                    | [Link](https://www.codingame.com/training/medium/telephone-numbers)                          |
 | Des nains sur des épaules de géants     | medium   |                    | [Link](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants) |
-| Bender - Episode 1                      | medium   |                    | [Link](https://www.codingame.com/training/medium/bender-episode-1)                           |
+| Bender - Episode 1                      | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/bender-episode-1)                           |
 | Scrabble                                | medium   |                    | [Link](https://www.codingame.com/training/medium/scrabble)                                   |
 | Le cadeau                               | medium   |                    | [Link](https://www.codingame.com/training/medium/the-gift)                                   |
 | Calcul Maya                             | medium   |                    | [Link](https://www.codingame.com/training/medium/mayan-calculation)                          |
 | Shadows of the Knight - Episode 1       | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)            |
-| Don't Panic - Episode 1                 | medium   |                    | [Link](https://www.codingame.com/training/medium/don't-panic-episode-1)                      |
+| Don't Panic - Episode 1                 | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/don't-panic-episode-1)                      |
 | La Bataille                             | medium   |                    | [Link](https://www.codingame.com/training/medium/winamax-battle)                             |
 | Teads Sponsored Challenge               | medium   |                    | [Link](https://www.codingame.com/training/medium/teads-sponsored-contest-hidden)             |
 | There is no Spoon - Episode 1           | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)                |
