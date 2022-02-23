@@ -21,7 +21,7 @@
 | Jack Silver: The Casino                 | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/jack-silver-the-casino)                       |
 | Rugby score                             | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/rugby-score)                                  |
 | How time flies                          | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/how-time-flies)                               |
-| Rock Paper Scissors Lizard Spock        | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock)                     |
+| Rock Paper Scissors Lizard Spock        | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock)             |
 | Nature of quadrilaterals                | easy     |                    | [Link](https://www.codingame.com/training/easy/nature-of-quadrilaterals)                     |
 | Balanced ternary computer: encode       | easy     |                    | [Link](https://www.codingame.com/training/easy/balanced-ternary-computer-encode)             |
 | Bulk Email Generator                    | easy     |                    | [Link](https://www.codingame.com/training/easy/bulk-email-generator)                         |
@@ -62,7 +62,7 @@
 | Are The Clumps Normal                   | easy     |                    | [Link](https://www.codingame.com/training/easy/are-the-clumps-normal)                        |
 | Smooth!                                 | easy     |                    | [Link](https://www.codingame.com/training/easy/smooth)                                       |
 | A child's play                          | easy     |                    | [Link](https://www.codingame.com/training/easy/a-childs-play)                                |
-| Detective Pikaptcha EP1                 | easy     |                    | [Link](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)                      |
+| Detective Pikaptcha EP1                 | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)                      |
 | Detective Pikaptcha EP2                 | easy     |                    | [Link](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)                      |
 | Happy Numbers                           | easy     |                    | [Link](https://www.codingame.com/training/easy/happy-numbers)                                |
 | Dolbear's Law                           | easy     |                    | [Link](https://www.codingame.com/training/easy/dolbears-law)                                 |
@@ -71,7 +71,9 @@
 | Rectangle Partition                     | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/rectangle-partition)                          |
 | Unit Fractions                          | easy     |                    | [Link](https://www.codingame.com/training/easy/unit-fractions)                               |
 | Prefix code                             | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/prefix-code)                                  |
-| Ghost legs                              | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/ghost-legs)                                  |
+| Ghost legs                              | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/ghost-legs)                                   |
+| Buzzle                                  | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/buzzle)                                       |
+| Gold Packing                            | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/gold-packing)                                 |
 | Skynet Revolution - Episode 1           | medium   |                    | [Link](https://www.codingame.com/training/medium/skynet-revolution-episode-1)                |
 | The Last Crusade - Episode 1            | medium   |                    | [Link](https://www.codingame.com/training/medium/the-last-crusade-episode-1)                 |
 | Mars Lander - Episode 2                 | medium   |                    | [Link](https://www.codingame.com/training/medium/mars-lander-episode-2)                      |
@@ -81,7 +83,7 @@
 | Numéros de téléphone                    | medium   |                    | [Link](https://www.codingame.com/training/medium/telephone-numbers)                          |
 | Des nains sur des épaules de géants     | medium   |                    | [Link](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants) |
 | Bender - Episode 1                      | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/bender-episode-1)                           |
-| Scrabble                                | medium   |                    | [Link](https://www.codingame.com/training/medium/scrabble)                                   |
+| Scrabble                                | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/scrabble)                                   |
 | Le cadeau                               | medium   |                    | [Link](https://www.codingame.com/training/medium/the-gift)                                   |
 | Calcul Maya                             | medium   |                    | [Link](https://www.codingame.com/training/medium/mayan-calculation)                          |
 | Shadows of the Knight - Episode 1       | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)            |
@@ -147,7 +149,7 @@
 | Locked in gear                          | medium   |                    | [Link](https://www.codingame.com/training/medium/locked-in-gear)                             |
 | Short accounts make long friends        | medium   |                    | [Link](https://www.codingame.com/training/medium/short-accounts-make-long-friends)           |
 | Number of paths between 2 points        | medium   |                    | [Link](https://www.codingame.com/training/medium/number-of-paths-between-2-points)           |
-| Guessing n Cheating                     | medium   |                    | [Link](https://www.codingame.com/training/medium/guessing-n-cheating)                        |
+| Guessing n Cheating                     | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/guessing-n-cheating)                        |
 | Digit sum successor                     | medium   |                    | [Link](https://www.codingame.com/training/medium/digit-sum-successor)                        |
 | IP mask calculating                     | medium   |                    | [Link](https://www.codingame.com/training/medium/ip-mask-calculating)                        |
 | Green Valleys                           | medium   |                    | [Link](https://www.codingame.com/training/medium/green-valleys)                              |
@@ -270,11 +272,11 @@
 | Expand the polynomial                   | hard     |                    | [Link](https://www.codingame.com/training/hard/expand-the-polynomial)                        |
 | Discrete Log Problem                    | hard     |                    | [Link](https://www.codingame.com/training/hard/discrete-log-problem)                         |
 | Detective Pikaptcha EP4                 | hard     |                    | [Link](https://www.codingame.com/training/hard/detective-pikaptcha-ep4)                      |
-| Inertia ride                            | hard     |                    | | [Link](https://www.codingame.com/training/hard/inertia-ride)                                 |
-| Tester avant Valider!                   | hard     |                    | | [Link](https://www.codingame.com/training/hard/test-before-validate!)                        |
-| Don't Panic - Episode 2                 | hard     |                    | | [Link](https://www.codingame.com/training/hard/don't-panic-episode-2)                        |
-| Le labyrinthe                           | hard     |                    | | [Link](https://www.codingame.com/training/hard/the-labyrinth)                                |
-| The Last Crusade - Episode 2            | hard     |                    | | [Link](https://www.codingame.com/training/hard/the-last-crusade-episode-2)                   |
+| Inertia ride                            | hard     |                    | Link](https://www.codingame.com/training/hard/inertia-ride)                                  |
+| Tester avant Valider!                   | hard     |                    | [Link](https://www.codingame.com/training/hard/test-before-validate!)                        |
+| Don't Panic - Episode 2                 | hard     |                    | [Link](https://www.codingame.com/training/hard/don't-panic-episode-2)                        |
+| Le labyrinthe                           | hard     |                    | [Link](https://www.codingame.com/training/hard/the-labyrinth)                                |
+| The Last Crusade - Episode 2            | hard     |                    | [Link](https://www.codingame.com/training/hard/the-last-crusade-episode-2)                   |
 | Cryptorithme                            | hard     |                    | [Link](https://www.codingame.com/training/hard/cryptarithm)                                  |
 | Calcul à trous                          | hard     |                    | [Link](https://www.codingame.com/training/hard/mystery-sums)                                 |
 | Solveur de mini sudoku                  | hard     |                    | [Link](https://www.codingame.com/training/hard/mini-sudoku-solver)                           |
@@ -343,10 +345,10 @@
 | OneWay City                             | expert   |                    | [Link](https://www.codingame.com/training/expert/oneway-city)                                |
 | Skylines                                | expert   |                    | [Link](https://www.codingame.com/training/expert/skylines)                                   |
 | The two piles difference                | expert   |                    | [Link](https://www.codingame.com/training/expert/the-two-piles-difference)                   |
-| The Lucky Number                        | expert   |                    | | [Link](https://www.codingame.com/training/expert/the-lucky-number)                           |
-| Partitions de musique                   | expert   |                    | | [Link](https://www.codingame.com/training/expert/music-scores)                               |
-| Recurring Decimals                      | expert   |                    | | [Link](https://www.codingame.com/training/expert/recurring-decimals)                         |
-| Mars Lander - Episode 3                 | expert   |                    | | [Link](https://www.codingame.com/training/expert/mars-lander-episode-3)                      |
+| The Lucky Number                        | expert   |                    | [Link](https://www.codingame.com/training/expert/the-lucky-number)                           |
+| Partitions de musique                   | expert   |                    | [Link](https://www.codingame.com/training/expert/music-scores)                               |
+| Recurring Decimals                      | expert   |                    | [Link](https://www.codingame.com/training/expert/recurring-decimals)                         | 
+| Mars Lander - Episode 3                 | expert   |                    | [Link](https://www.codingame.com/training/expert/mars-lander-episode-3)                      |
 | The Last Crusade - Episode 3            | expert   |                    | [Link](https://www.codingame.com/training/expert/the-last-crusade-episode-3)                 |
 | Vox Codei - Episode 2                   | expert   |                    | [Link](https://www.codingame.com/training/expert/vox-codei-episode-2)                        |
 | Nintendo Sponsored Challenge            | expert   |                    | [Link](https://www.codingame.com/training/expert/nintendo-sponsored-contest)                 |
@@ -388,7 +390,7 @@
 | Code of the Rings                       | optim    |                    | [Link](https://www.codingame.com/multiplayer/optimization/code-of-the-rings)                 |
 | Code vs Zombies                         | optim    |                    | [Link](https://www.codingame.com/multiplayer/optimization/code-vs-zombies)                   |
 | CodinGame Sponsored Challenge           | optim    |                    | [Link](https://www.codingame.com/multiplayer/optimization/codingame-sponsored-contest)       |
-| Mars Lander                             | optim    |                    | | [Link](https://www.codingame.com/multiplayer/optimization/mars-lander)                       |
+| Mars Lander                             | optim    |                    | [Link](https://www.codingame.com/multiplayer/optimization/mars-lander)                       |
 | The Great Dispatch                      | optim    |                    | [Link](https://www.codingame.com/multiplayer/optimization/the-great-dispatch-disabled)       |
 | A*Craft                                 | optim    |                    | [Link](https://www.codingame.com/multiplayer/optimization/a-star-craft)                      |
 | Bender - Episode 4                      | optim    |                    | [Link](https://www.codingame.com/multiplayer/optimization/bender---episode-4)                |
