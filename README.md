@@ -1,7 +1,6 @@
 # Codingame
 
- Kudos to : Coni63 for his beautiful table 
-
+# Last update 23/02/2022
 
 | title                                   | level    | Done               | url                                                                                          |
 |:----------------------------------------|:---------|:-------------------|:---------------------------------------------------------------------------------------------|
@@ -22,8 +21,8 @@
 | Rugby score                             | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/rugby-score)                                  |
 | How time flies                          | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/how-time-flies)                               |
 | Rock Paper Scissors Lizard Spock        | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock)             |
-| Nature of quadrilaterals                | easy     |                    | [Link](https://www.codingame.com/training/easy/nature-of-quadrilaterals)                     |
-| Balanced ternary computer: encode       | easy     |                    | [Link](https://www.codingame.com/training/easy/balanced-ternary-computer-encode)             |
+| Nature of quadrilaterals                | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/nature-of-quadrilaterals)                     |
+| Balanced ternary computer: encode       | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/balanced-ternary-computer-encode)             |
 | Bulk Email Generator                    | easy     |                    | [Link](https://www.codingame.com/training/easy/bulk-email-generator)                         |
 | Horse-racing Hyperduals                 | easy     |                    | [Link](https://www.codingame.com/training/easy/horse-racing-hyperduals)                      |
 | Self-driving car testing                | easy     |                    | [Link](https://www.codingame.com/training/easy/self-driving-car-testing)                     |
@@ -61,7 +60,7 @@
 | Count as I count                        | easy     |                    | [Link](https://www.codingame.com/training/easy/count-as-i-count)                             |
 | Are The Clumps Normal                   | easy     |                    | [Link](https://www.codingame.com/training/easy/are-the-clumps-normal)                        |
 | Smooth!                                 | easy     |                    | [Link](https://www.codingame.com/training/easy/smooth)                                       |
-| A child's play                          | easy     |                    | [Link](https://www.codingame.com/training/easy/a-childs-play)                                |
+| A child's play                          | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/a-childs-play)                                |
 | Detective Pikaptcha EP1                 | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)                      |
 | Detective Pikaptcha EP2                 | easy     |                    | [Link](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)                      |
 | Happy Numbers                           | easy     |                    | [Link](https://www.codingame.com/training/easy/happy-numbers)                                |
@@ -74,11 +73,14 @@
 | Ghost legs                              | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/ghost-legs)                                   |
 | Buzzle                                  | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/buzzle)                                       |
 | Gold Packing                            | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/gold-packing)                                 |
+| Largest number                          | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/ide/puzzle/largest-number)                                  |
+| Binary image                            | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/ide/puzzle/binary-image)                                    |
+| Graffiti on the fence                   | easy     | :heavy_check_mark: | [Link](hhttps://www.codingame.com/ide/puzzle/graffiti-on-the-fence)                          |
 | Skynet Revolution - Episode 1           | medium   |                    | [Link](https://www.codingame.com/training/medium/skynet-revolution-episode-1)                |
 | The Last Crusade - Episode 1            | medium   |                    | [Link](https://www.codingame.com/training/medium/the-last-crusade-episode-1)                 |
 | Mars Lander - Episode 2                 | medium   |                    | [Link](https://www.codingame.com/training/medium/mars-lander-episode-2)                      |
-| Pertes en bourse                        | medium   |                    | [Link](https://www.codingame.com/training/medium/stock-exchange-losses)                      |
-| Câblage réseau                          | medium   |                    | [Link](https://www.codingame.com/training/medium/network-cabling)                            |
+| Pertes en bourse                        | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/stock-exchange-losses)                      |
+| Câblage réseau                          | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/network-cabling)                            |
 | Suite de Conway                         | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/conway-sequence)                            |
 | Numéros de téléphone                    | medium   |                    | [Link](https://www.codingame.com/training/medium/telephone-numbers)                          |
 | Des nains sur des épaules de géants     | medium   |                    | [Link](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants) |
@@ -272,7 +274,7 @@
 | Expand the polynomial                   | hard     |                    | [Link](https://www.codingame.com/training/hard/expand-the-polynomial)                        |
 | Discrete Log Problem                    | hard     |                    | [Link](https://www.codingame.com/training/hard/discrete-log-problem)                         |
 | Detective Pikaptcha EP4                 | hard     |                    | [Link](https://www.codingame.com/training/hard/detective-pikaptcha-ep4)                      |
-| Inertia ride                            | hard     |                    | Link](https://www.codingame.com/training/hard/inertia-ride)                                  |
+| Inertia ride                            | hard     |                    | [Link](https://www.codingame.com/training/hard/inertia-ride)                                 |
 | Tester avant Valider!                   | hard     |                    | [Link](https://www.codingame.com/training/hard/test-before-validate!)                        |
 | Don't Panic - Episode 2                 | hard     |                    | [Link](https://www.codingame.com/training/hard/don't-panic-episode-2)                        |
 | Le labyrinthe                           | hard     |                    | [Link](https://www.codingame.com/training/hard/the-labyrinth)                                |
