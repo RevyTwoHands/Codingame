@@ -1,6 +1,6 @@
 # Codingame
 
-# Last update 23/02/2022
+# Last update 01/03/2022
 
 | title                                   | level    | Done               | url                                                                                          |
 |:----------------------------------------|:---------|:-------------------|:---------------------------------------------------------------------------------------------|
@@ -23,7 +23,7 @@
 | Rock Paper Scissors Lizard Spock        | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock)             |
 | Nature of quadrilaterals                | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/nature-of-quadrilaterals)                     |
 | Balanced ternary computer: encode       | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/balanced-ternary-computer-encode)             |
-| Bulk Email Generator                    | easy     |                    | [Link](https://www.codingame.com/training/easy/bulk-email-generator)                         |
+| Bulk Email Generator                    | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/bulk-email-generator)                         |
 | Horse-racing Hyperduals                 | easy     |                    | [Link](https://www.codingame.com/training/easy/horse-racing-hyperduals)                      |
 | Self-driving car testing                | easy     |                    | [Link](https://www.codingame.com/training/easy/self-driving-car-testing)                     |
 | What's so complex about Mandelbrot?     | easy     |                    | [Link](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot)            |
